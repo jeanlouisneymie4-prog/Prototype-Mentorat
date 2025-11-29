@@ -20,7 +20,7 @@ Le mentorat est une relation interpersonnelle de soutien et d'accompagnement ent
 
 # Maybe.
 - [ ] L'utilisateur peut accerder a des forums ou groupes de discussion pour echanger avec une communaute de mentorat elargie.  
-- [ ] L’utilisateur peut avoir un profil personnel.
+- [ ] L’utilisateur peut avoir un profil personnel. 
 - [ ] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
       
 # Would be nice to have
@@ -29,3 +29,4 @@ Le mentorat est une relation interpersonnelle de soutien et d'accompagnement ent
        
 # Prototype Figma
 https://www.figma.com/design/xhXgBx88KQ7YKuSsPEgo7E/Mentorat?node-id=0-1&p=f&t=YtBle24De9L1GGWc-0
+<img src="iPhone%2013%20%26%2014%20-%201.png"> <img src="iPhone%2013%20%26%2014%20-%202.png"> <img src="iPhone%2013%20%26%2014%20-%203.png"> <img src="iPhone%2013%20%26%2014%20-%204.png"> <img src="iPhone%2013%20%26%2014%20-%205.png"> <img src="iPhone%2013%20%26%2014%20-%206.png">
